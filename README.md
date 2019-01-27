@@ -1,7 +1,16 @@
 # Linux shellscript-for-watermarking images
 
-#Before running this script you need to install Imagemagick (image editing software)
+Shellscript reads image files from a root folder and convert each image in to watermarked image with the help of Imagemagick
 
-#For ImageMagick https://gist.github.com/rodleviton/74e22e952bd6e7e5bee1 
+- prerequisites
+  - Imagemagick numeric values in the script need to change appropriately for better results/gist.github.com/rodleviton/74e22e952bd6e7e5bee1
+-numeric values in the script need to change appropriately for better results
 
-# numeric values in the script need to change appropriately for better results 
+License
+----
+
+MIT
+
+
+**Free Software, Happy coding!**
+
